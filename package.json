@@ -1,0 +1,31 @@
+{
+  "name": "cryotify",
+  "version": "1.0.0",
+  "description": "An app designed for CryoBuilt customers to give them the ability to log into their own account and create their own playlists so they can listen to the music they desire from the iPad app during a session in the Cryo-Chamber.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CryoJaber/Cryotify.git"
+  },
+  "keywords": [
+    "CryoChamber",
+    "Music",
+    "Spotify",
+    "Login",
+    "Account",
+    "Playlists",
+    "Artists",
+    "Songs",
+    "Albums",
+    "Sessions"
+  ],
+  "author": "Jessie Abernathy aka \"The Green Ranger\" aka \"CryoJaber\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CryoJaber/Cryotify/issues"
+  },
+  "homepage": "https://github.com/CryoJaber/Cryotify#readme"
+}
